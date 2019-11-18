@@ -15,7 +15,7 @@ root
 
 👤 **changi cho**
 
-- Website: https://changicho.tistory.com/
+- Website: [blog](https://changicho.tistory.com/)
 - Github: [@changicho](https://github.com/changicho)
 
 ## 후원해주기
